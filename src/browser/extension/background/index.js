@@ -1,6 +1,4 @@
 import configureStore from 'app/store/configureStore';
-import createMenu from './contextMenus';
-import initBadge from './badge';
 
 import vAPI from './../../../vapi/chromeBackground'
 import listener from './../../../app/listeners';
